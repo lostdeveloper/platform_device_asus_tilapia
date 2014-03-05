@@ -30,3 +30,4 @@ PRODUCT_NAME := full_tilapia
 PRODUCT_DEVICE := tilapia
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := AOSP on Tilapia
+
